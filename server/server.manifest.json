@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/c01-string-format.js": "components/c01-string-format.js",
+    "components/c02-number-format.js": "components/c02-number-format.js",
+    "components/c03-date-format.js": "components/c03-date-format.js",
+    "components/c04-columntype.js": "components/c04-columntype.js",
+    "components/c05-master-detail.js": "components/c05-master-detail.js",
+    "components/first-q-c-e-l-l.js": "components/first-q-c-e-l-l.js",
+    "pages/index.js": "pages/index.js",
+    "pages/p01stringformat.js": "pages/p01stringformat.js",
+    "pages/p02numberformat.js": "pages/p02numberformat.js",
+    "pages/p03dateformat.js": "pages/p03dateformat.js",
+    "pages/p04columntype.js": "pages/p04columntype.js",
+    "pages/p05masterdetail.js": "pages/p05masterdetail.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/c01-string-format.js": "components/c01-string-format.js.map",
+    "components/c02-number-format.js": "components/c02-number-format.js.map",
+    "components/c03-date-format.js": "components/c03-date-format.js.map",
+    "components/c04-columntype.js": "components/c04-columntype.js.map",
+    "components/c05-master-detail.js": "components/c05-master-detail.js.map",
+    "components/first-q-c-e-l-l.js": "components/first-q-c-e-l-l.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/p01stringformat.js": "pages/p01stringformat.js.map",
+    "pages/p02numberformat.js": "pages/p02numberformat.js.map",
+    "pages/p03dateformat.js": "pages/p03dateformat.js.map",
+    "pages/p04columntype.js": "pages/p04columntype.js.map",
+    "pages/p05masterdetail.js": "pages/p05masterdetail.js.map",
+    "server.js": "server.js.map"
+  }
+}
